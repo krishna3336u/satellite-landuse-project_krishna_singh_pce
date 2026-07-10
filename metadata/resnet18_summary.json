@@ -1,0 +1,9 @@
+{
+    "phase1_best_val_f1": 0.8704214115680635,
+    "best_final_val_f1": 0.9767109955781865,
+    "final_val_accuracy": 0.9775308641975309,
+    "final_val_macro_f1": 0.9767109955781865,
+    "test_accuracy": 0.9790123456790123,
+    "test_macro_f1": 0.9782182042282273,
+    "model_name": "ResNet18_TwoPhase_FineTuning"
+}

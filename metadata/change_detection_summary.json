@@ -1,0 +1,7 @@
+{
+    "roc_auc": 0.982312,
+    "selected_similarity_threshold": 0.6079610586166382,
+    "change_detection_accuracy": 0.926,
+    "change_detection_macro_f1": 0.9259952636968767,
+    "num_pairs_evaluated": 1000
+}

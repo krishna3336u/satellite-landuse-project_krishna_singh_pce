@@ -1,0 +1,13 @@
+{
+    "uc_holdout_accuracy": 0.5355555555555556,
+    "uc_holdout_macro_f1": 0.31859439785160826,
+    "num_samples_used": 900,
+    "mapped_classes": [
+        "AnnualCrop",
+        "Forest",
+        "Highway",
+        "Industrial",
+        "River",
+        "SeaLake"
+    ]
+}
