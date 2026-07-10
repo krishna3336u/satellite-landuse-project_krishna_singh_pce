@@ -3,6 +3,8 @@
 ## Project Overview
 This project classifies satellite images into land-use categories and detects temporal change between two images using cosine similarity on deep embeddings.
 
+**Deployed Streamlit App:** [Open App]([https://your-app-link.streamlit.app/](https://satellite-landuse-projectkrishnasinghpce-nqkqnqzbtlf4pd5dinhdd.streamlit.app/))
+
 ## Features
 - EuroSAT land-use classification
 - Transfer learning with ResNet-18
